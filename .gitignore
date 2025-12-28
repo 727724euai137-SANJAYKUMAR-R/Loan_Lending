@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Java / Spring Boot
+target/
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+.DS_Store
